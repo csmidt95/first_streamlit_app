@@ -3,6 +3,9 @@ import pandas
 
 streamlit.title('Hello Worlddd')
 
+streamlit.image('./IMG_3373.jpg')
+
+
 streamlit.header('Breakfast Menu')
 streamlit.text('🥣  Omega 3 & Blueberry Oatmeal')
 streamlit.text('🥗 Kale, Spinach & Rocket Smoothie')
